@@ -3,3 +3,7 @@
 ##Gravando mudanças no repositório
 
 ### Teste 
+
+*git push
+*git pull
+*git fetch
